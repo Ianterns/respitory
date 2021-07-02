@@ -3,10 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lemonflux&label=Profile%20views&color=0e75b6&style=flat" alt="council"/> </p>
 <p align="center">
-🔭 I’m currently working on <strong>C#/Python Automation/Applications</strong>
+🔭 I’m currently working on <strong>Python/Developing Wintr/Applications</strong>
 </p>
 <p align="center">
-🌱 I’m currently learning <strong>C#</strong>
+🌱 I’m currently learning <strong>Bash</strong>
 </p>
 <p align="center">
 👯 I love to work with <strong>@LocalsGitHub</strong>
