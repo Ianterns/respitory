@@ -21,9 +21,9 @@ council#0002 - Discord </br>
 respitory - Github </br>
 @notificiations - Instagram </br>
 
-# lxi#1400
+# council$0002
 <p align="center">
   <a href="https://github.com/respitory">
-    <img src="https://data.whicdn.com/images/353981537/original.gif"/>
+    <img src="https://images-ext-2.discordapp.net/external/fvgapwhfbY66aQd6B_fxBfoT_yT5OsGrAntKg9nK-JY/%3Fsize%3D2048/https/cdn.discordapp.com/splashes/853829516157517824/afa40626efba2bfe45b560022e32d46a.png?width=171&height=113"/>
      </a>
 </p>
