@@ -1,4 +1,4 @@
-<h1 align="center">👋, I'm council</h1>
+<h1 align="center">👋, hey I'm council</h1>
 <h3 align="center">i like to develop discord bot's for fun & create tools for others</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lemonflux&label=Profile%20views&color=0e75b6&style=flat" alt="council"/> </p>
