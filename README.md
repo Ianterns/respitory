@@ -12,9 +12,9 @@
 </p>
 
 # Stats
-![c](https://github-readme-stats.vercel.app/api/top-langs/?username=lxi1400&layout=compact&theme=dark) 
+![c](https://github-readme-stats.vercel.app/api/top-langs/?username=respitory&layout=compact&theme=dark) 
 </br>
-![stats](https://github-readme-stats.vercel.app/api?username=lxi1400&show_icons=true&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api?username=respitory&show_icons=true&theme=dark)
 
 # Contacts
 council#0002 - Discord </br>
