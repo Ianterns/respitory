@@ -6,7 +6,7 @@
 # lxi
 
 <p align="center">
-  <a href="https://github.com/lxi1400">
+  <a href="https://github.com/respitory">
     <img src="https://discord.c99.nl/widget/theme-4/851156718346960978.png"/>
      </a>
 </p>
@@ -16,15 +16,14 @@
 </br>
 ![stats](https://github-readme-stats.vercel.app/api?username=lxi1400&show_icons=true&theme=dark)
 
-# Contact
-lxi#1400 - Discord </br>
-lxi1400 - Snap </br>
-@lxi1400 - Telegram </br>
-@lxi1400 - Instagram </br>
+# Contacts
+council#0002 - Discord </br>
+respitory - Github </br>
+@notificiations - Instagram </br>
 
 # lxi#1400
 <p align="center">
-  <a href="https://github.com/lxi1400">
+  <a href="https://github.com/respitory">
     <img src="https://data.whicdn.com/images/353981537/original.gif"/>
      </a>
 </p>
